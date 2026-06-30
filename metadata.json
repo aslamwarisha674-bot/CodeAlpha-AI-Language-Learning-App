@@ -1,0 +1,6 @@
+{
+  "name": "Language Learner",
+  "description": "An interactive language learning app featuring lessons, quizzes, text-to-speech pronunciations, and Gemini-powered smart translation and vocabulary generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
